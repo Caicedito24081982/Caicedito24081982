@@ -23,7 +23,7 @@ Soy un profesional con formación avanzada en Derecho y un apasionado de la Cien
 
 👨‍💻 **Proyectos Destacados**
 
-clip-1100141101-motion-infographic-hud-screen-replacement-presentations-colorful
+https://www.shutterstock.com/shutterstock/videos/1088688313/preview/stock-footage-animation-of-scientific-data-processing-on-black-background-science-astronomy-physics-design.webm
 
 1. **Analítica Predictiva en Derecho de Tránsito** - Utilización de Python y Power BI para analizar tendencias de accidentes y proponer mejoras normativas.
 2. **Machine Learning Operations** - Creacion de un sistema de recomendacion de videojuegos para la Multinacional Steam Games.
