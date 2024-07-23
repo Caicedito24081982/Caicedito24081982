@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**Caicedito24081982/Caicedito24081982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+## Jorge Enrique Caicedo Riascos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Abogado y Científico de Datos
+
+🔍 **Sobre Mí**
+
+Soy un profesional con formación avanzada en Derecho y un apasionado de la Ciencia de Datos. Esta combinación me permite abordar los problemas desde una perspectiva analítica y normativa, asegurando soluciones bien fundamentadas y eficaces.
+
+📚 **Formación Académica**
+
+- **Magister en Derecho con Énfasis en Teoría del Derecho** - Universidad Externado de Colombia (2015-2019)
+- **Abogado** - Universidad Cooperativa de Colombia (2008-2013)
+- **Data Scientist** - Certificado por Henry (2023-2024)
+
+💼 **Experiencia Profesional**
+
+- **Secretaría de Paz y Cultura Ciudadana**, Distrito Especial de Santiago de Cali
+  - Rol: Profesional Universitario
+  - Aplicación de análisis de datos para mejorar la vida comunitaria y formular políticas públicas efectivas.
+
+👨‍💻 **Proyectos Destacados**
+
+1. **Analítica Predictiva en Derecho de Tránsito** - Utilización de Python y Power BI para analizar tendencias de accidentes y proponer mejoras normativas.
+2. **Machine Learning para Políticas Públicas** - Proyecto que utiliza modelos predictivos para la toma de decisiones en la asignación de recursos públicos.
+
+🔗 **Contacto**
+
+- **Correo Electrónico:** [jorge.caicedo.riascos@gmail.com](mailto:jorge.caicedo.riascos@gmail.com)
+- **Teléfono:** +57 3128300577
+
+---
+
+Gracias por visitar mi perfil. ¡Espero conectar y colaborar con otros profesionales apasionados por el derecho y la tecnología!
+
+
+
+
+
+
+
+
+
