@@ -34,7 +34,8 @@ Soy un profesional con formación avanzada en Derecho y un apasionado de la Cien
 - **Correo Electrónico:** [jorge.caicedo.riascos@gmail.com](mailto:jorge.caicedo.riascos@gmail.com)
 - **Teléfono:** +57 3128300577
 
-![Python Code](URL_DE_CODIGO_PYTHON) <!-- Reemplaza URL_DE_CODIGO_PYTHON con la URL de una imagen que muestre código Python estilizado -->
+![image](https://github.com/user-attachments/assets/978e0305-1428-49fc-984b-583d1ee92832)
+
 
 ---
 
