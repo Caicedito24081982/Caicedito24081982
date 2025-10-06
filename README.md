@@ -33,8 +33,7 @@ Soy un profesional con formación avanzada en Derecho y un apasionado de la Cien
 - **Correo Electrónico:** [jorge.caicedo.riascos@gmail.com](mailto:jorge.caicedo.riascos@gmail.com)
 - **Teléfono:** +57 3128300577
 
-![image](https://github.com/user-attachments/assets/978e0305-1428-49fc-984b-583d1ee92832))
-
+   https://manus.im/app/KFEFaVZW21KFHrhMfN6HZr
 ---
 
 Gracias por visitar mi perfil. ¡Espero conectar y colaborar con otros profesionales apasionados por el derecho y la tecnología!
