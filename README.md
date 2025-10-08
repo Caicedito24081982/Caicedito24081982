@@ -11,8 +11,8 @@ Soy un profesional con formación avanzada en Derecho y un apasionado de la Cien
 
 📚 ## **Formación Académica**
 
-- **Magister en Derecho con Énfasis en Teoría del Derecho** - Universidad Externado de Colombia (2015-2019)
 - **Abogado** - Universidad Cooperativa de Colombia (2008-2013)
+- **Magister en Derecho con Énfasis en Teoría del Derecho** - Universidad Externado de Colombia (2015-2019)
 - **Data Scientist** - Certificado por Henry (2023-2024)
 - **Especialista en Derecho Administrativo** - Universidad Santiago de Cali (2024-2025)
 
