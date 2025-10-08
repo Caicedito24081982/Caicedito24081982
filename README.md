@@ -28,6 +28,12 @@ Soy un profesional con formación avanzada en Derecho y un apasionado de la Cien
 1. **Analítica Predictiva en Derecho de Tránsito** - Utilización de Python y Power BI para analizar tendencias de accidentes y proponer mejoras normativas.
 2. **Machine Learning Operations** - Creacion de un sistema de recomendacion de videojuegos para la Multinacional Steam Games.
 
+   # Convertir a GIF optimizado
+ffmpeg -i video.mp4 -vf "scale=480:-1,fps=10" -loop 0 output.gif
+
+# Reducir más el tamaño
+ffmpeg -i video.mp4 -vf "scale=320:-1,fps=8" -t 6 optimized.gif
+
 
 🔗 ## **Contacto**
 
